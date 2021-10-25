@@ -18,11 +18,11 @@ namespace Assignment2
             this.wid = 1;
             this.hgt = 1;
         }
-        public Rectangle(int value)
+        public Rectangle(int value1,int value2,int value3)
         {
-            this.len = value;
-            this.wid = value;
-            this.hgt = value;
+            this.len = value1;
+            this.wid = value2;
+            this.hgt = value3;
         }
 
         public int GetLength()
