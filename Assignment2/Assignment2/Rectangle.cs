@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assignment2
 {
-    class Rectangle
+    public class Rectangle
     {
         private int len;
         private int wid;
@@ -18,11 +18,11 @@ namespace Assignment2
             this.wid = 1;
             this.hgt = 1;
         }
-        public Rectangle(int value1,int value2,int value3)
+        public Rectangle(int length,int width,int height)
         {
-            this.len = value1;
-            this.wid = value2;
-            this.hgt = value3;
+            this.len = length;
+            this.wid = width;
+            this.hgt = height;
         }
 
         public int GetLength()
@@ -60,9 +60,9 @@ namespace Assignment2
             Console.WriteLine("height set to " + height);
         }
 
-        public double GetVolume()
+        public int GetVolume()
         {
-            double volume = (this.len * this.wid * this.hgt);
+            int volume = (this.len * this.wid * this.hgt);
             Console.WriteLine("Volume is ");
             return volume;
         }

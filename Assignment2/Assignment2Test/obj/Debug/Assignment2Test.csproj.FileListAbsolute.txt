@@ -1,0 +1,17 @@
+C:\Users\ponna\source\repos\Assignment2\Assignment2Test\obj\Debug\Assignment2Test.csproj.AssemblyReference.cache
+C:\Users\ponna\source\repos\Assignment2\Assignment2Test\obj\Debug\Assignment2Test.csproj.CoreCompileInputs.cache
+C:\Users\ponna\source\repos\Assignment2\Assignment2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ponna\source\repos\Assignment2\Assignment2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ponna\source\repos\Assignment2\Assignment2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ponna\source\repos\Assignment2\Assignment2Test\bin\Debug\Assignment2Test.dll
+C:\Users\ponna\source\repos\Assignment2\Assignment2Test\bin\Debug\Assignment2Test.pdb
+C:\Users\ponna\source\repos\Assignment2\Assignment2Test\bin\Debug\Assignment2.exe
+C:\Users\ponna\source\repos\Assignment2\Assignment2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ponna\source\repos\Assignment2\Assignment2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ponna\source\repos\Assignment2\Assignment2Test\bin\Debug\Assignment2.pdb
+C:\Users\ponna\source\repos\Assignment2\Assignment2Test\bin\Debug\Assignment2.exe.config
+C:\Users\ponna\source\repos\Assignment2\Assignment2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ponna\source\repos\Assignment2\Assignment2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ponna\source\repos\Assignment2\Assignment2Test\obj\Debug\Assignment2Test.csproj.CopyComplete
+C:\Users\ponna\source\repos\Assignment2\Assignment2Test\obj\Debug\Assignment2Test.dll
+C:\Users\ponna\source\repos\Assignment2\Assignment2Test\obj\Debug\Assignment2Test.pdb

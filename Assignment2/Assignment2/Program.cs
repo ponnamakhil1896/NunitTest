@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace Assignment2
 {
     enum availopts
@@ -27,10 +28,47 @@ namespace Assignment2
             }
             public void Go()
             {
-                var getops = Enum.GetNames(typeof(availopts));
+            Rectangle rec = new Rectangle();
+            string input = String.Empty;
+            int length, width, height = 0;
+            Console.WriteLine("\n Please enter the dimensions:");
+
+            do
+            {
+
+                Console.Write("\n Length:");
+                input = Console.ReadLine();
+                if (!int.TryParse(input, out length) || (length <= 0))
+                {
+                    Console.WriteLine("\nIncorrect input!!!! Try again");
+                }
+            } while (!(length > 0));
+
+            do
+            {
+
+                Console.Write("\n Width:");
+                input = Console.ReadLine();
+                if (!int.TryParse(input, out width) || (width <= 0))
+                {
+                    Console.WriteLine("\nIncorrect input!!!! Try again");
+                }
+            } while (!(width > 0));
+
+            do
+            {
+
+                Console.Write("\n Height:");
+                input = Console.ReadLine();
+                if (!int.TryParse(input, out height) || (height <= 0))
+                {
+                    Console.WriteLine("\n Incorrect input!!!! Try again");
+                }
+            } while (!(height > 0));
+
+            var getops = Enum.GetNames(typeof(availopts));
 
                 string slotChoice = string.Empty;
-                int slot = 0;
                 Rectangle c = new Rectangle();
                 do
                 {
